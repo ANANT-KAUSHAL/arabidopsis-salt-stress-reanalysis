@@ -1,0 +1,9 @@
+"Metric","Value"
+"Total probe sets",22810
+"Total samples",12
+"Selected samples",4
+"Control replicates",2
+"Salt replicates",2
+"WRKY-associated annotated probe sets",60
+"Adjusted P-value < 0.05",6070
+"Adjusted P-value < 0.05 and |logFC| > 1",2582

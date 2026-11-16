@@ -96,6 +96,27 @@ The repository includes five final figures:
 | `Volcano_Col_Salt_Response.png` | Shows differential-expression results for the Col salt response. |
 | `Volcano_Colgl_Salt_Response.png` | Shows differential-expression results for the Colgl salt response. |
 | `WRKY_Heatmap_All_12_Samples.png` | Displays expression patterns of WRKY-associated probe sets across all samples. |
+### Visualisations
+
+**1. PCA — all 12 samples**
+
+![PCA of all 12 samples](figures/PCA_All_12_Samples.png)
+
+**2. Volcano plot — Ws salt response**
+
+![Ws salt response](figures/Volcano_Ws_Salt_Response.png)
+
+**3. Volcano plot — Col salt response**
+
+![Col salt response](figures/Volcano_Col_Salt_Response.png)
+
+**4. Volcano plot — Colgl salt response**
+
+![Colgl salt response](figures/Volcano_Colgl_Salt_Response.png)
+
+**5. WRKY-associated expression heatmap**
+
+![WRKY heatmap across all 12 samples](figures/WRKY_Heatmap_All_12_Samples.png)
 
 ## Repository structure
 

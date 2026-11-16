@@ -67,7 +67,7 @@ Adjusted p-values are used to account for multiple testing. The exported result 
 
 The following counts summarise the results obtained using the specified statistical thresholds:
 
-| Contrast | FDR < 0.05 | FDR < 0.05 and |log2FC| > 1 |
+| Contrast | FDR < 0.05 | FDR < 0.05 and absolute log2FC > 1 |
 |---|---:|---:|
 | Ws salt response | 3,778 | 1,042 |
 | Col salt response | 8,532 | 2,619 |
